@@ -1,2 +1,2 @@
-# kinomonstr
-Training project. HTML, CSS. 
+# kinomonstr - сайт просмотра фильмов. 
+Первый тренировочный проект по HTML и CSS. 
